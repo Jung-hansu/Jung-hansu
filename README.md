@@ -13,6 +13,14 @@
 
 <br>
 
+# ⭐ Solved.ac
+
+<!-- Solved.ac Teer -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jounghs3933)](https://solved.ac/jounghs3933)
+
+<br>
+
 <!-- Teck Stack -->
 # 🛠️ Tech Stack
 
@@ -37,14 +45,6 @@
 
 <br>
 -->
-
-# ⭐ Solved.ac
-
-<!-- Solved.ac Teer -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jounghs3933)](https://solved.ac/jounghs3933)
-
-<br>
 
 <!-- BootCamps -->
 ## Thanks to
