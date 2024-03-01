@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=150&section=header&text=hanjung's+GitHub&animation=fadeIn&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=140&section=header&text=hanjung's+GitHub&animation=fadeIn&fontSize=60)
 
 ---
 
