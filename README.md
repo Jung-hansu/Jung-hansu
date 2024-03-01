@@ -7,7 +7,7 @@
   
 ![hanjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-hansu&show_icons=true&theme=radical) 
 &nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-hansu)](https://github.com/Jung-hansu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-hansu&layout=compact)](https://github.com/Jung-hansu/github-readme-stats)
 
 </div>
 
