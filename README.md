@@ -2,10 +2,12 @@
 
 ---
 
-<div align="center">
-
 <!-- GitHub Stats -->
-![hanjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-hansu&show_icons=true&theme=radical)
+<div align="center">
+  
+![hanjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jung-hansu&show_icons=true&theme=radical) 
+&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-hansu)](https://github.com/Jung-hansu/github-readme-stats)
 
 </div>
 
@@ -19,20 +21,22 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF) 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) 
 
 <br>
 
-<!-- To Study -->
-# 📚 I'll study...
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF) 
+<!--
+# 📚 I'm studying...
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF) 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF) 
 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=FFFFFF) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF) 
+
 <br>
+-->
 
 # ⭐ Solved.ac
 
@@ -40,6 +44,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jounghs3933)](https://solved.ac/jounghs3933)
 
+<br>
 
 <!-- BootCamps -->
 ## Thanks to
